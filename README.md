@@ -12,4 +12,4 @@
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/C#-007396?style=flat-square&logo=C#&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Csharp-007396?style=flat-square&logo=Csharp&logoColor=white"/></a>&nbsp
